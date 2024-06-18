@@ -1,6 +1,5 @@
 package com.sudarsanShah.movieApi.payloads;
 
-import jakarta.persistence.Column;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Data;
